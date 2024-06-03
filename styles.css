@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+button{border:none;
+	  background-color:red;
+	   color:white;
+	   padding:10px;
+	   border-radius:5px
+	  }
+.text-section{padding:30px;
+			 align-items:center;
+			 text-align:center}
+#img{height:100%;
+	width:100%}
+.container{display:flex;
+		  }
