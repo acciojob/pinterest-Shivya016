@@ -9,6 +9,8 @@ button{border:none;
 			 align-items:center;
 			 text-align:center}
 #img{height:100%;
+	 width:30%;
+	 object-fit:cover;
 	width:100%}
-.container{display:flex;
+.hero{display:flex;
 		  }
